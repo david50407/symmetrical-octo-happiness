@@ -49,13 +49,13 @@ work, share, and discuss issues around an open-source-related topic.
 <!-- .slide: id="links" -->
 
 <!-- # 社群網站連結 -->
-- [![blogger](assets/icon-blogger.svg)](http://blog.coscup.org/)
-- [![facebook](assets/icon-facebook.svg)](https://www.facebook.com/coscup/)
-- [![flickr](assets/icon-flickr.svg)](https://www.flickr.com/people/coscup)
-- [![google](assets/icon-google.svg)](https://plus.google.com/+coscup/posts)
-- [![plurk](assets/icon-plurk.svg)](https://www.plurk.com/coscup)
-- [![twitter](assets/icon-twitter.svg)](https://twitter.com/coscup)
-- [![youtube](assets/icon-youtube.svg)](https://www.youtube.com/user/thecoscup)
+- [![blogger](https://david50407.github.io/studious-goggles/assets/icon-blogger.svg)](http://blog.coscup.org/)
+- [![facebook](https://david50407.github.io/studious-goggles/assets/icon-facebook.svg)](https://www.facebook.com/coscup/)
+- [![flickr](https://david50407.github.io/studious-goggles/assets/icon-flickr.svg)](https://www.flickr.com/people/coscup)
+- [![google](https://david50407.github.io/studious-goggles/assets/icon-google.svg)](https://plus.google.com/+coscup/posts)
+- [![plurk](https://david50407.github.io/studious-goggles/assets/icon-plurk.svg)](https://www.plurk.com/coscup)
+- [![twitter](https://david50407.github.io/studious-goggles/assets/icon-twitter.svg)](https://twitter.com/coscup)
+- [![youtube](https://david50407.github.io/studious-goggles/assets/icon-youtube.svg)](https://www.youtube.com/user/thecoscup)
 
 <!-- # 往年網站連結 -->
 - <!-- .element: id="histories" -->
