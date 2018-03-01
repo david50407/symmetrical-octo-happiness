@@ -18,13 +18,12 @@ Please contact sponsorship@coscup.org
 <!-- .slide: data-tbd="true" id="cfc" -->
 
 # 議程合作社群徵求中
-## Call for Community
-
-我們在 2017 年也曾以社群議程的方式進行議程，
-今年我們也同樣在社群的基礎上共同打造屬於我們的 COSCUP！
+## Apply for a Community Room
 
 Community Rooms are assigned to self-organising groups to
 work, share, and discuss issues around an open-source-related topic.
+
+[More information](http://blog.coscup.org/2017/03/2018-community-room-application.html)
 
 ----
 
