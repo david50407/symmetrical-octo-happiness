@@ -13,6 +13,6 @@ git submodule init
 git submodule add -b gh-pages -f --name build "https://$GH_TOKEN@github.com/david50407/symmetrical-octo-happiness.git" build
 
 mv index.md build/index.md
-echo "$(git rev-parse HEAD)" > build/.rev
+echo "$(date -u -Iseconds) via $(git rev-parse HEAD)" > build/.rev
 
-cd build; git add -fA .; git commit -m "Build at ${rev} [ci skip]"; git push -q || true
+cd build; git add -fA .; git commit -m "Backup at $(date -uI) [ci skip]"; git push -q || true
