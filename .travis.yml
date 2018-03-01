@@ -1,0 +1,9 @@
+dist: trusty
+language: generic
+sudo: false
+
+script: test $TRAVIS_PULL_REQUEST != "false" || ./.travis-build.sh
+
+branches:
+  only:
+    - cron
