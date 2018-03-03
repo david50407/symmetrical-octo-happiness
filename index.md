@@ -38,7 +38,8 @@ Community Rooms are assigned to self-organising groups to work, share, and discu
 # 志工招募
 ## Volunteer recruitment
 
-今年的 COSCUP 預定在 8/11、8/12 舉辦，活動籌備已經起跑，這次一樣需要廣大的社群朋友參與支援，有興趣的朋友們快來填寫以下表單！ (5/15 截止!!)
+今年的 COSCUP 預定在 8/11、8/12 舉辦，活動籌備已經起跑，這次一樣需要廣大的社群朋友參與支援，有興趣的朋友們快來填寫以下表單！  
+（5/15 截止！！）
 
 [招募表單 / Recuritment form](https://docs.google.com/forms/d/e/1FAIpQLSdHYdmjCFuVBCZKmeN_tp_I9rm4vkERHvK7gS0h1haTcxHDGg/viewform)
 
