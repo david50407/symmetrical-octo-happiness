@@ -15,14 +15,14 @@ Please contact [sponsorship@coscup.org](mailto:sponsorship@coscup.org)
 
 ----
 
-<!-- .slide: data-tbd="true" id="cfc" -->
+<!-- .slide: id="community" -->
 
 # 議程合作社群徵求中
 ## Apply for a Community Room
 
 Community Rooms are assigned to self-organising groups to work, share, and discuss issues around an open-source-related topic.
 
-[More information](http://blog.coscup.org/2017/03/2018-community-room-application.html)
+[More information / 資訊請見 blog](http://blog.coscup.org/2018/03/2018-community-room-application.html)
 
 ----
 
