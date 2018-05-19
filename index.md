@@ -27,12 +27,12 @@ Please contact [sponsorship@coscup.org](mailto:sponsorship@coscup.org)
 
 <!-- .slide: id="community" -->
 
-# 議程合作社群徵求中
-### Apply for a Community Room
+# 議程徵求中
+### Call for Proposal
 
-Community Rooms are assigned to self-organising groups to work, share, and discuss issues around an open-source-related topic.
+We are looking for talks in several open-source related areas, please submit your proposal before May 25th, 2018. 
 
-[More information / 資訊請見 blog](http://blog.coscup.org/2018/03/2018-community-room-application.html)
+[More information / 資訊請見 blog](http://blog.coscup.org/2018/05/coscup-information-about-tracks-this.html)
 
 ----
 
